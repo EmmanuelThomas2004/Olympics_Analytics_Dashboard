@@ -1,0 +1,33 @@
+ Number of Athletes Over Years
+AthletesOverYears = 
+CALCULATE(
+    COUNTROWS(sportsdb_Athletes),
+    ALLEXCEPT(sportsdb_Athletes, sportsdb_Athletes[Year])
+)
+
+ Total Gold Medals
+TotalGold = CALCULATE(COUNTROWS(sportsdb_Athletes), sportsdb_Athletes[MedalWon]="Yes", sportsdb_Athletes[MedalType]="Gold")
+
+Total Silver Medals
+TotalSilver = CALCULATE(COUNTROWS(sportsdb_Athletes), sportsdb_Athletes[MedalWon]="Yes", sportsdb_Athletes[MedalType]="Silver")
+
+Total Bronze Medals
+TotalBronze = CALCULATE(COUNTROWS(sportsdb_Athletes), sportsdb_Athletes[MedalWon]="Yes", sportsdb_Athletes[MedalType]="Bronze")
+
+Total Athletes
+TotalAthletes = COUNTROWS(sportsdb_Athletes)
+
+Total Medals
+TotalMedals = CALCULATE(COUNTROWS(sportsdb_Athletes), sportsdb_Athletes[MedalWon]="Yes")
+
+Average Height
+AvgHeight = AVERAGE(sportsdb_Athletes[Height])
+
+Average Weight
+AvgWeight = AVERAGE(sportsdb_Athletes[Weight])
+
+Average BMI
+AvgBMI = AVERAGE(sportsdb_Athletes[BMI])
+
+Average Age
+AvgAge = AVERAGE(sportsdb_Athletes[Age])
