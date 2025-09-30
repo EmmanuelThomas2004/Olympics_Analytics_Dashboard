@@ -26,7 +26,6 @@ Built using **MySQL + Power BI + DAX**.
 
 ---
 
-### 2️⃣ Olympic Medal Insight
 ### 2️⃣ Olympic Medal Insights
 **KPIs:**  
 - Total Gold Medals  
