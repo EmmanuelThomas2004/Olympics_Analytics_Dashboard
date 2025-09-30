@@ -16,7 +16,7 @@ Built using **MySQL + Power BI + DAX**.
 **Charts / Visuals:**  
 - Number of Athletes Over Years  
 - Top 4 Sports by Total Medals  
-- Total Athletes by Gender  
+- Total Athletes by sex
 
 **Interactive Feature:**  
 - Year Slicer (filter data by year)  
