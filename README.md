@@ -65,7 +65,8 @@ If you want to explore interactively, download the `.pbix` file here:
 - Physical metrics (BMI, Height, Weight) show clear patterns across sports.  
 - Age group 20–24 has the highest medal wins.  
 
----
+All SQL queries used in this project are available here:  
+👉 [View SQL Queries on GitHub](./SQL_Queries/Olympics_Queries.sql)
 
 ✦ Created as part of my Data Analytics Portfolio ✦
 
