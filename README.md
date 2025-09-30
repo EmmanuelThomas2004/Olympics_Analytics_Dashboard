@@ -42,11 +42,16 @@ Built using **MySQL + Power BI + DAX**.
 ---
 
 ### 3️⃣ Athlete Performance
-**KPIs:**
-- Average Height, Weight, Age, BMI  
+**KPIs:**  
+- Average Height  
+- Average Weight  
+- Average Age  
+- Average BMI  
 
-**Visuals:**  
-- Shows top sports by average height, medals by age group, and average height & weight by age group.  
+**Charts / Visuals:**  
+- Average Height & Weight by Age Group  
+- Top 5 Sports by Average Height  
+- Total Medals by Age Group  
 
 ![Athlete Performance](Dashboard3.png)
 
