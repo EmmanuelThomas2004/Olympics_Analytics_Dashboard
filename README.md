@@ -14,7 +14,7 @@ Built using **MySQL + Power BI + DAX**.
 - Total Gold Medals  
 - Number of Athletes Over Years  
 - Top 4 Sports by Total Medals  
-- Total Athletes by Sport  
+- Total Athletes by sex
 
 **Visuals:**  
 - Shows athlete participation trends and top sports by performance.  
