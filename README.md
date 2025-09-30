@@ -89,15 +89,14 @@ This project demonstrates data analysis, dashboard creation, and KPI computation
 
 ## 🚀 Key Insights
 - Athlete participation has increased steadily across Olympic years.  
-- **USA, Russia, Germany** dominate total medal counts.  
+- USA, Russia, Germany dominate total medal counts.  
 - Physical metrics (BMI, Height, Weight) show clear patterns across sports.  
-- Age group **20–24** has the highest medal wins.  
-- Top-performing sports: **Rugby, Lacrosse, Alpinism, Cricket**.  
-- **Male athletes outnumber female athletes** across the dataset.  
+- Age group 20–24 has the highest medal wins.  
+- Top-performing sports: Rugby, Lacrosse, Alpinism, Cricket.  
+- Male athletes outnumber female athletes across the dataset.  
 - Average athlete height and weight differ significantly by sport.  
 
----
- 
+--
 ✦ Created as part of my Data Analytics Portfolio ✦
 
 
