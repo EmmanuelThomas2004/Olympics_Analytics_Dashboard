@@ -27,15 +27,19 @@ Built using **MySQL + Power BI + DAX**.
 ---
 
 ### 2️⃣ Olympic Medal Insight
-**KPIs:**
-- Total Gold, Silver, Bronze Medals  
-- Total Athletes with No Medal  
+### 2️⃣ Olympic Medal Insights
+**KPIs:**  
+- Total Gold Medals  
+- Total Silver Medals  
+- Total Bronze Medals  
+- Athletes with No Medal  
 
-**Visuals:**  
-- Shows country-wise medal distribution, trends over time, and percentage of athletes with medals.  
+**Charts / Visuals:**  
+- Total Medals Over Years  
+- Top 10 Countries by Total Medals  
+- Percentage of Athletes with Medals  
 
-![Olympic Medal Insight](Dashboard2.png)
-
+![Olympic Medal Insights](Dashboard2.png)
 ---
 
 ### 3️⃣ Athlete Performance
