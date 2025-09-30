@@ -18,7 +18,7 @@ This project demonstrates data analysis, dashboard creation, and KPI computation
 **Charts / Visuals:**  
 - Number of Athletes Over Years  
 - Top 4 Sports by Total Medals  
-- Total Athletes by Gender  
+- Total Athletes by Sex 
 
 ![Olympic Insights](Dashboard1.png)
 
