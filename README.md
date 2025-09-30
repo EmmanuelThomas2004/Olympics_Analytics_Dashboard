@@ -7,19 +7,22 @@ Built using **MySQL + Power BI + DAX**.
 
 ## 📊 Dashboards
 
-### 1️⃣ Olympic Insight
-**KPIs:**
+### 1️⃣ Olympic Insights
+**KPIs:**  
 - Total Athletes  
 - Total Medals  
 - Total Gold Medals  
+
+**Charts / Visuals:**  
 - Number of Athletes Over Years  
 - Top 4 Sports by Total Medals  
-- Total Athletes by sex
+- Total Athletes by Gender  
 
-**Visuals:**  
-- Shows athlete participation trends and top sports by performance.  
+**Interactive Feature:**  
+- Year Slicer (filter data by year)  
 
-![Olympic Insight](Dashboard1.png)
+![Olympic Insights](Dashboard1.png)
+
 
 ---
 
