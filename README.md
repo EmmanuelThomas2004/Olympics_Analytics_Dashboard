@@ -96,7 +96,7 @@ This project demonstrates data analysis, dashboard creation, and KPI computation
 - Male athletes outnumber female athletes across the dataset.  
 - Average athlete height and weight differ significantly by sport.  
 
---
+
 ✦ Created as part of my Data Analytics Portfolio ✦
 
 
